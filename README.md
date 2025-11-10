@@ -18,6 +18,7 @@ python3 nessus_ai_investigator_full.py
 ```
 
 ##  Example .env
+```bash
 # ---------- Nessus connection ----------
 NESSUS_URL=https://localhost:8834
 VERIFY_SSL=true
@@ -48,7 +49,7 @@ CHROME_PATH=/usr/bin/google-chrome
 CHROMEDRIVER_PATH=/usr/local/bin/chromedriver
 SCREENSHOT_WIDTH=1600
 SCREENSHOT_HEIGHT=2000
-
+```
 
 ## License
 This project is licensed under the MIT License.
